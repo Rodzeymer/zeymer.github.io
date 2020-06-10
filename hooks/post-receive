@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+
+git --git-dir="c:\users\rodrigo torre\desktop\site-pessoal" --work-tree="c:\users\rodrigo torre\desktop\deploy-site" checkout -f
